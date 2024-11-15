@@ -1,3 +1,4 @@
+<!-- Deleting of item from database -->
 <?php
 include 'config.php';
 
